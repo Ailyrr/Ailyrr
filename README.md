@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Cornell (aka Ailyrr)
-- 👀 I’m interested in Coding and Video producing🎥
-- 🌱 I’m currently learning C#🤓
-- 📫 You can reach me on **Twitter** at @TheSwissDev
+# 👋 Hi, I’m Cornell (aka Ailyrr)
+I'm a student currently passonately learning web development and backend
+I'm currently learning:
+> TypeScript
+> Rust
+> PHP
+> 日本語 (The hardest one)
 
-I am still learning a lot and if you see my code and have a comment, critique or anything feel ✨**Free**✨ to say it! :)
-I'm also open to any collab between other learning developpers, I'm sure it would be a great learning experience!
 
+I'm open to collabs so if you'd like to code together, with pleasure ! よろしくお願い致します!!!
 <!---
 Ailyrr/Ailyrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
