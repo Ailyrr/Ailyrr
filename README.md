@@ -14,7 +14,7 @@ I'm currently working on mulltiple projects all related to [Helvetica Esport](ht
 > - An OBS Companion app for managing Helvetica's VALORANT Streams with mainly text editing functionalities
 
 ### Reaching Out
-For any questions on collaboration requests, you can reach me at [ailyrr@proton.me](mailto:ailyrr@proton.me). \n
+For any questions on collaboration requests, you can reach me at [ailyrr@proton.me](mailto:ailyrr@proton.me).
 I'm really open and can talk with you in:
 > - 🇬🇧 English
 > - 🇫🇷 French
