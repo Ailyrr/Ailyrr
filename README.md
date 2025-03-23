@@ -1,29 +1,44 @@
-# 👋 Hi, I’m Cornell (aka Ailyrr)
-I'm a student and passionate gamer currently learning **✨Frontend Development✨** and **✨Backend✨**
-### Currently Learning:
-> - C#
-> - C++
-> - Rust
-> - PHP
-> - 日本語 (The hardest one)
+👋 Hi, I’m Cornell (aka Ailyrr)
 
-### Current Projects
-I'm currently working on mulltiple projects all related to [Helvetica Esport](https://helvetica-esport.ch/en/). An eSport organization that I am starting with friends. Projects include:
-> - Main Website (web app) for showcasing the team and organizing events for admins and users
-> - A Discord Bot linked to the backend of the website for interactions inside the [Discord Server](https://discord.com/invite/VRRznSYcb2)
-> - An OBS Companion app for managing Helvetica's VALORANT Streams with mainly text editing functionalities
+I'm a student, gamer, and developer passionate about building web applications and exploring new technologies. Currently, I'm deep-diving into both Frontend & Backend Development, always looking for new challenges to tackle.
+🚀 Currently Learning
 
-### Reaching Out
-For any questions on collaboration requests, you can reach me at [ailyrr@proton.me](mailto:ailyrr@proton.me).
-I'm really open and can talk with you in:
-> - 🇬🇧 English
-> - 🇫🇷 French
-> - 🇩🇪 German
-> - 🇯🇵 Japanese.
+    ⚡ Next.js – Building modern, fast web applications
 
-Happy Coding! 
+    🦀 Rust – Low-level programming with high performance
+
+    🐘 PHP – Backend development for dynamic websites
+
+    🇯🇵 Japanese – Because why not make life even harder? 😆
+
+🔥 Current Projects
+
+I'm actively working on multiple projects, all tied to Helvetica Esports, an esports organization I'm building with friends:
+🎮 Helvetica Esports Projects:
+
+    🏆 Main Website – A full-featured web app for managing teams, events, and community engagement
+
+    🤖 Discord Bot – Integrated with our website backend for seamless interaction in our Discord Server
+
+    🎥 OBS Companion App – A tool for managing VALORANT streams with real-time text editing features
+
+📬 Contact & Collaboration
+
+If you're interested in working together or just want to chat, feel free to reach out:
+📧 ailyrr@proton.me
+🌍 Languages I Speak:
+
+    🇬🇧 English
+
+    🇫🇷 French
+
+    🇩🇪 German
+
+    🇯🇵 Japanese (まだまだ勉強中！)
+
+Happy Coding! 🎉
 よろしくお願い致します。
-コーネルより。
+コーネルより
 <!---
 Ailyrr/Ailyrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
